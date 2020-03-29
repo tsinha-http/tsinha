@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        body {background-color :yellow;}
+        h1 {color:rgb(255,0,0);}
+        h2 {color:blue;}
+        </style>
+    </head>
+    <body>
+       
+        <h1>Tanmay's Recipe Book ;)</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#?">Recipe of a cake </a></li>
+            <li><a href="#pizza">Pizza</a></li>
+            <li><a href="#dosa">Dosa</a></li>
+        </ol>
+       
+        
+        <h2 id="?">Recipe of a cake</h2> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/220px-Pound_layer_cake.jpg" width="300">
+        
+        <ul>
+            <li>Time: Around 2 Hours</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>All purpose Flour</td>
+                    <td>3 cups</td>
+                </tr>
+                <tr> 
+                    <td>Beaten egg</td>
+                    <td>2</td>
+                </tr>
+                 <tr>
+                    <td>Baking Soda</td>
+                    <td>2 tsp</td>
+                </tr>
+                 <tr>
+                    <td>Vanilla Essence</td>
+                    <td>2 tsp</td>
+                </tr>
+                 <tr>
+                    <td>Powered Sugar</td>
+                    <td>2 cups</td>
+                </tr>
+                 <tr>
+                    <td>Butter</td>
+                    <td>1 cup</td>
+                </tr>
+                 <tr>
+                    <td>Milk</td>
+                    <td>2 cups</td>
+                </tr>
+            </tbody>
+        </table>
+    <h3>Follow these steps :)</h3>    
+        
+        <p><strong>Step 1:</strong> Cream together butter sugar and then blend with beaten eggs...<br>
+        <strong>Step 2:</strong> Mix together flour mix and beaten eggs...<br>
+        <strong>Step 3:</strong> Cook the cake as per your convenience...<br>
+        <strong>Step 4:</strong> Check with a knife or skewer if it is cooked and serve...<br>
+        <strong>Step 5:</strong> Enjoy your spongy <strong>Cake</strong> :)
+</p>
+<h2 id="pizza">Pizza</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/220px-Eq_it-na_pizza-margherita_sep2005_sml.jpg" width="300">
+
+     <ul>
+            <li>Time: Around 45 minutes</li>
+            <li>Serves: 8</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Low Fat Mozerrella Cheese</td>
+                    <td>200 gms</td>
+                </tr>
+                <tr> 
+                    <td>Pizza Sauce</td>
+                    <td>2 tbsp</td>
+                </tr>
+                 <tr>
+                    <td>Black Pepper</td>
+                    <td>As required</td>
+                </tr>
+                 <tr>
+                    <td>Dry yeast</td>
+                    <td>2 & 1/4 tsp</td>
+                </tr>
+                 <tr>
+                    <td>Bread Flour</td>
+                    <td>4 cup</td>
+                </tr>
+                 <tr>
+                    <td>Olive oil</td>
+                    <td>2 tbsp</td>
+                </tr>
+                 <tr>
+                    <td>Water</td>
+                    <td>1 &1/2 cups</td>
+                </tr>
+                 <tr>
+                    <td>Salt</td>
+                    <td>1 & 1/2 tsp</td>
+                </tr>
+                 <tr>
+                    <td>Sugar</td>
+                    <td>1 tbsp</td>
+                </tr>
+                 <tr>
+                    <td>Tomato</td>
+                    <td>50 gms</td>
+                </tr>
+                 <tr>
+                    <td>Mushroom</td>
+                    <td>50 gms</td>
+                </tr>
+                 <tr>
+                    <td>Onion</td>
+                    <td>50 gms</td>
+                </tr>
+                 <tr>
+                    <td>Capsicum</td>
+                    <td>50 gms</td>
+                </tr>
+                 <tr>
+                    <td>Black Olive</td>
+                    <td>1 handful </td>
+                </tr>
+                 <tr>
+                    <td>Jalapeno</td>
+                    <td>1</td>
+                </tr>
+            </tbody>
+        </table>
+    <h3>Follow these steps :)</h3> 
+    <p><strong>Step 1</strong>
+To prepare the dough, combine warm water and sugar in a large bowl. When sugar dissolves completely in water, add dry yeast and keep it aside for 5 minutes. Then add olive oil, bread flour and sprinkle salt. Mix the ingredients well with your hand and knead the mixture to form a soft dough.<br><br>
+
+<strong>Step 2</strong>
+Cover the dough with a damp cloth and set aside for 15-20 minutes. Transfer the dough to a flat surface and sprinkle a bit of flour over it. Gently knead the dough again for a minute or two. Flatten the dough using a rolling pin. Spread pizza sauce evenly on the dough. Carefully transfer the pizza base on a baking sheet.<br><br>
+
+<strong>Step 3</strong>
+Preheat the oven at 250 degree Celsius. Meanwhile take a chopping board and cut vegetables into thin slices. Top up the pizza with chopped onions, tomatoes, capsicums, mushrooms, jalapenos and olives. Sprinkle grated mozzarella cheese on the vegetables. Place it in oven and bake the pizza for 10-15 minutes until the cheese melts. Season with black pepper, cut into slices and serve hot!</p>
+     <h2 id="dosa">Dosa</h2> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg/220px-Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg" width="300">
+      <ul>
+            <li>Time: Around 30 minutes</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Par boiled rice</td>
+                    <td>2 cup </td>
+                </tr>
+                <tr> 
+                    <td>Refined oil</td>
+                    <td>1/4 cup</td>
+                </tr>
+                 <tr>
+                    <td>Urad dal</td>
+                    <td>1/2 cup</td>
+                </tr>
+                 <tr>
+                    <td>Fenugreek seeds</td>
+                    <td>1/2 tsp</td>
+                </tr>
+                 <tr>
+                    <td>Salt</td>
+                    <td>1 tsp</td>
+                </tr>
+                 <tr>
+                    <td><strong>For Filling</strong></td>
+                </tr>
+                 <tr>
+                    <td>Boiled potato</td>
+                    <td>1/2 kg</td>
+                </tr>
+                 <tr>
+                    <td>Sliced onion</td>
+                    <td>1 & 1/2 cups</td>
+                </tr>
+                 <tr>
+                    <td>Medium chopped chilli</td>
+                    <td>2</td>
+                </tr>
+                 <tr>
+                    <td>Refined oil</td>
+                    <td>2 tbsp</td>
+                </tr>
+                 <tr>
+                    <td>Mustard seeds</td>
+                    <td>1 tbsp</td>
+                </tr>
+                 <tr>
+                    <td>Curry leaves</td>
+                    <td>10</td>
+                </tr>
+                 <tr>
+                    <td>Turmeric</td>
+                    <td>1/4 tsp</td>
+                </tr>
+                 <tr>
+                    <td>water</td>
+                    <td>1/4 cup</td>
+                </tr>
+                 <tr>
+                    <td>Salt</td>
+                    <td>As required</td>
+                </tr>
+            </tbody>
+        </table>
+    <h3>Follow these steps :)</h3> 
+    <p><strong>Step 1:</strong> Prepare the batter and ferment overnight.
+Masala Dosa is one of the most popular South Indian delicacies. Here’s how you can prepare this delicious recipe at home! To prepare the batter for Masala Dosa, wash and soak the rice (with fenugreek added into it) and urad dal in separate containers for approximately 6-8 hours. Once the rice and urad dal are soaked well, grind them separately in a mixer, till the mixture gets a smooth consistency. Take the batter of both the ingredients in a bigger container and add salt to it. Allow it to ferment overnight.<br><br>
+<strong>Step 2:</strong> Prepare the potato filling for Masala Dosa
+For preparing the filling of the dosa, heat oil in a thick-bottomed pan and let the mustard seeds splutter. Then, add sliced onions, curry leaves, green chillies and saute them till the onions turn pink. Then, add a pinch of salt and turmeric powder and mix them well. Now, take the cubed potatoes and add them to the sauteed onions and mix them together. Pour some water into the mixture and allow the potatoes to simmer the mixture for around 4 minutes. When the mixture is in semi-thick state, turn off the gas knob and let it rest for a few seconds.<br><br>
+<strong>Step 3:</strong> Make your dosa
+Now take a dosa tawa and heat it on low-medium flame. Smear a little oil on it to prepare the dosa. When the tawa is hot, pour and spread the batter of urad dal and rice evenly into a circular motion.<br><br>
+<strong>Step 4:</strong> Add filling and fold the dosa
+While the colour of dosa's edges turns into brown, reduce the flame and sprinkle few drops of oil on the dosa sides and put 2 tablespoons of filling. Fold the dosa. Serve hot Masala Dosa with coconut chutney and sambhar.<br><br>
+<strong>Step 5:</strong> Tips for making Masala Dosa
+1. For making that perfect batter for dosa, use short grain or parboiled rice. This will make your dosa crispier. 2. To attain that golden colour to your dosa, use dry roasted chana dal in your batter. 3. For better and quick fermentation, try using 1-2 tbsp of methi seeds in your batter in a warm place. This will also make your dosa tastier. 4. You might have seen dosa makers sprinkling water on the hot pan and then making the dosa. Don’t perform this on the non-stick pan, as it can affect the coating. 5. Always use ghee or butter for making your Masala Dosa, this will increase the flavour of your dish.</p>
+
+    <p><em>Source: <a href="https://recipes.timesofindia.com/recipes/homemade-cake/rs54404412.cms">Recipes website</a></em></p>
+    
+    </body>
+</html>
