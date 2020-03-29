@@ -64,6 +64,6 @@ Internet scams are schemes that deceive the user in various ways in attempt to t
 <strong>Malware</strong><br>
 Malware, particularly spyware, is malicious software disguised as software designed to collect and transmit private information, such as password, without the user's consent or knowledge. They are often distributed through e-mail, software and files from unofficial locations. Malware is one of the most prevalent security concerns as often it is impossible to determine whether a file is infected, despite the source of the file. 
 </p>
-<h4><a href="https://tsinha-http.github.io/recipe.html">Go to next page</h4>
+<h4><a href="https://tsinha-http.github.io/recipe.html">Go to next page</a></h4>
     </body>
 </html>
