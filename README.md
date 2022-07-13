@@ -30,9 +30,7 @@
     enable_page_level_ads: true
   });
 </script>
-        <h1>Tanmay's blog ;)</h1>
-        <h1> Watch some bass!!!</h1>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/RkkdYdWMfQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
 
         <h3>Contents</h3>
         <ul>
@@ -71,6 +69,9 @@ Internet scams are schemes that deceive the user in various ways in attempt to t
 
 <strong>Malware</strong><br>
 Malware, particularly spyware, is malicious software disguised as software designed to collect and transmit private information, such as password, without the user's consent or knowledge. They are often distributed through e-mail, software and files from unofficial locations. Malware is one of the most prevalent security concerns as often it is impossible to determine whether a file is infected, despite the source of the file. 
+            <h1>Tanmay's blog ;)</h1>
+        <h1> Watch some bass!!!</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/RkkdYdWMfQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <h4><a href="https://tsinha-http.github.io/recipe.html">Go to next page</a></h4>
     </body>
